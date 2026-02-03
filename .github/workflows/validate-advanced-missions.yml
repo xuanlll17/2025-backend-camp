@@ -1,7 +1,6 @@
 name: Validate Advanced Missions
 
-on:
-  workflow_dispatch: 
+on: 
   push:
     branches: ['*']
   pull_request:
